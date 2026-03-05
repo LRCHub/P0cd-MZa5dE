@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Lighting The Future",
+  "base_artist": "八王子P",
+  "createdAt": "2026-03-05T06:53:42.072963Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lighting the Flames of My Own Personal Hell",
+      "artist": "$uicideboy$",
+      "has_synced": true,
+      "path": "select/01_Lighting_the_Flames_of_My_Own_Personal_Hell_$uicideboy$.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lighting the Way",
+      "artist": "Superdrag",
+      "has_synced": false,
+      "path": "select/02_Lighting_the_Way_Superdrag.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lighting The Flames Of My Own Personal Hell",
+      "artist": "Suicideboys",
+      "has_synced": true,
+      "path": "select/03_Lighting_The_Flames_Of_My_Own_Personal_Hell_Suicideboys.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lighting the Fuse",
+      "artist": "Vision",
+      "has_synced": false,
+      "path": "select/04_Lighting_the_Fuse_Vision.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lighting the Fuse",
+      "artist": "Mumsdollar",
+      "has_synced": true,
+      "path": "select/05_Lighting_the_Fuse_Mumsdollar.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "12 - Lighting The Fuse",
+      "artist": "Vision",
+      "has_synced": false,
+      "path": "select/06_12_-_Lighting_The_Fuse_Vision.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lighting the Flames of My Own Personal Hell",
+      "artist": "$uicideboy$",
+      "has_synced": true,
+      "path": "select/07_Lighting_the_Flames_of_My_Own_Personal_Hell_$uicideboy$.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lighting the Flames of My Own Personal Hell (Paused)",
+      "artist": "$uicideboy$",
+      "has_synced": true,
+      "path": "select/08_Lighting_the_Flames_of_My_Own_Personal_Hell_(Paused)_$uicideboy$.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lighting The Flame",
+      "artist": "Lauren Spencer Smith",
+      "has_synced": true,
+      "path": "select/09_Lighting_The_Flame_Lauren_Spencer_Smith.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lighting the Future (feat. 初音ミク)",
+      "artist": "八王子P",
+      "has_synced": false,
+      "path": "select/pl_01_Lighting_the_Future_(feat._初音ミク)_八王子P.txt"
+    }
+  ]
+}
